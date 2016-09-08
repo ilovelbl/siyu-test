@@ -1,2 +1,2 @@
-merge test 2
-fix my own confuse about mer test 1 doesnt work
+merge test 3
+remenber check github web
